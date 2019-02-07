@@ -22,25 +22,24 @@ Piece Move: U | D | L | R
 
 # Current State
 
-
 Game Table (1x2)
-Player Turn | 	Last Mirror Moved
-----------------------------------
-P1			| 	
-P2			| 	M2
-P1			| 	M1
-P2			| 	
-P1			| 	M4
+| Player Turn | Last Mirror Moved |
+|-------------|-------------------|
+| P1		  | 				  |
+| P2		  | 	M2			  |
+| P1		  | 	M1			  |
+| P2		  | 				  |
+| P1		  | 	M4			  |
 
 Piece Table(6x3)
-Piece	|	Position 	|	Orientation
----------------------------------------
-P1		|	(0,0)		| 	U
-P2		| 	(3,3)		| 	D
-M1		| 	(1,1)		| 	+1
-M2		| 	(1,2)		| 	-1
-M3		| 	(2,1)		| 	+1
-M4		| 	(2,2)		| 	-1
+| Piece	| 	Position | 	Orientation |
+|-------|------------|--------------|
+| P1	|	(0,0)	 |	U			|
+| P2	| 	(3,3)	 |	D			|
+| M1	| 	(1,1)	 |	+1			|
+| M2	| 	(1,2)	 |	-1			|
+| M3	| 	(2,1)	 |	+1			|
+| M4	| 	(2,2)	 |	-1			|
 
 # Logs
 
