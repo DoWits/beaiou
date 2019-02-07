@@ -29,9 +29,11 @@ Piece Move: U | D | L | R
 
 
 Game Table (1x2)
-| Player Turn 	| Last Mirror Moved 	|
-| -----------	| --------------------- |
-| P1 		|			|
+| Player Turn | Last Mirror Moved |
+| ----------- | ----------------- |
+| P1          |                   |
+
+
 | P2 		| M2 			|
 | P1 		| M1 			|
 | P2 		|			|		
