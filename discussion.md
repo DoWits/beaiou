@@ -45,18 +45,17 @@ Piece Move: U | D | L | R
 
 # Logs
 
-player 1: M1 Move U 
-player 2: P2 Rotate L 
-player 1: M2 Rotate L
-player 2: 
-player 1: P1 Move U 
-player 2: M2 Move L
-player 1: M3 Rotate R
-player 2: P2 Move D
-...
-...
-...
-...
-player 2: M2 Rotate L
-P2 win
-
+player 1: M1 Move U  
+player 2: P2 Rotate L  
+player 1: M2 Rotate L  
+player 2:   
+player 1: P1 Move U   
+player 2: M2 Move L  
+player 1: M3 Rotate R  
+player 2: P2 Move D  
+...  
+...  
+...  
+...  
+player 2: M2 Rotate L  
+P2 win  
