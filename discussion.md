@@ -22,6 +22,12 @@ Piece Move: U | D | L | R
 
 # Current State
 
+| Player Turn | Last Mirror Moved | Right-aligned |
+| :---        |     :---:         |          ---: |
+| git status  | git status        | git status    |
+| git diff    | git diff          | git diff      |
+
+
 Game Table (1x2)
 | Player Turn 	| Last Mirror Moved 	|
 | -----------	| --------------------- |
