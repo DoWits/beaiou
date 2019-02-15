@@ -1,6 +1,7 @@
 # State
 
 - Game
+	- board state (all pieces state)
 	- player turn
 	- mirror moved in last turn
 
