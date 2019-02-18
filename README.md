@@ -9,3 +9,6 @@
 ## Software used for development
 - Unity 2018.3.0f2
 - Visual Studio 2017 (community version)
+
+## Current Apk build
+- [Android APK](https://drive.google.com/open?id=14Yb0Bmn-1mpO0EzoGsGAhxQCPumvJFu7)
