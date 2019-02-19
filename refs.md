@@ -8,7 +8,10 @@ Structure: `- [Name of the link](url-link)`
 - [Giraffe: Using Deep Reinforcement Learning to Play Chess](https://arxiv.org/pdf/1509.01549.pdf)
 - [Mastering Chess and Shogi by Self-Play with a
 General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
+
 ### Article
+
+- []
 
 ### Video
 
