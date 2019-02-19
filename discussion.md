@@ -15,10 +15,10 @@
 
 # Conventions
 
-Mirrors: M1, M2, M3, M4
-Players: P1, P2
-Player Orientation: U | D | L | R
-Mirror Orientation: +1 | -1
+Mirrors: M1, M2, M3, M4  
+Players: P1, P2  
+Player Orientation: U | D | L | R  
+Mirror Orientation: +1 | -1  
 Piece Move: U | D | L | R
 
 # Current State
