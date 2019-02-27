@@ -21,6 +21,13 @@ Player Orientation: U | D | L | R
 Mirror Orientation: +1 | -1
 Piece Move: U | D | L | R
 
+*Board Positions for Game State*  
+
+30 31 32 33
+20 21 22 23
+10 11 12 13
+00 01 02 03  
+
 # Current State
 
 ### Game Table (1x2)
